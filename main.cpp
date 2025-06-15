@@ -5,11 +5,11 @@ int main() {
 
     // Suma liczb od 1 do 5
     int sum = 0;
-    for (int i = 1; i <= 5; i++) {
+    for (int i = 1; i <= 16; i++) {
         sum += i;
     }
 
-    printf("Suma liczb od 1 do 5 to: %d\n", sum);
+    printf("Suma liczb od 1 do 16 to: %d\n", sum);
 
     return 0;
 }
