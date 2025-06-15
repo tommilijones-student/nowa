@@ -10,6 +10,6 @@ int main() {
     }
 
     printf("Suma liczb od 1 do 16 to: %d\n", sum);
-
+    printf("Goodbye, GitHub!\n");
     return 0;
 }
